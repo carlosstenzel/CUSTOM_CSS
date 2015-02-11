@@ -1,0 +1,17 @@
+/**
+ * ------------------------------------------
+ * CUSTOM CSS
+ * Framework php para criação de css de facil
+ * customização
+ * Carlos Stenzel -> www.carlosstenzel.com
+ * CodeHamper -> www.codehamper.com
+ * -------------------------------------------
+*/      
+h1{
+	 font-family: arial, sans-serif;
+	 font-size: 30px;;
+	 color: red;
+}
+.exemploclass{
+	 color: blue;
+}
