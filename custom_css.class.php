@@ -40,11 +40,11 @@ class Custom_css{
 	/**
 	 * $nome -> nome do estilo
 	 * $atributos -> atributos
-    * $loaded -> array de estilos carregados
-   */
+         * $loaded -> array de estilos carregados
+        */
    
 	private $nome;
-   private $atributos;
+        private $atributos;
 	
 	public function __construct($nome){
    	$this->nome = $nome;	
